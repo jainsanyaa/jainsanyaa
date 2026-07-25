@@ -4,7 +4,8 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1000&color=EC4899&center=true&vCenter=true&width=700&lines=👋+Hi,+I'm+Sanya+Jain;💻+Full-Stack+Developer;⚛️+MERN+Stack+Developer;🧠+DSA+Enthusiast;🌸+Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=700&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=🌸+Hi,+I'm+Sanya+Jain;💖+Computer+Science+Student;💻+Building+Beautiful+Web+Apps;⚛️+React+%7C+Node.js+%7C+MongoDB;🚀+Learning+Something+New+Every+Day)](https://git.io/typing-svg)
+
 
 <br/>
 
