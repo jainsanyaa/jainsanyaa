@@ -4,7 +4,8 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E8,50:FF8DC7,100:C084FC&height=220&section=header&text=Sanya%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1200&color=EC4899&center=true&vCenter=true&width=750&lines=👋+Hi,+I'm+Sanya+Jain;💻+Full+Stack+Developer;⚛️+MERN+Stack+Developer;🧠+DSA+Enthusiast;🌸+Always+Learning+New+Things)](https://git.io/typing-svg)
+
 
 
 
