@@ -34,7 +34,7 @@
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **HTML, CSS, JavaScript, React**
 - ✨ Fun Fact: I love solving **Math Problems** & Playing Games 🎮
-- My Portfolio Link  (https://portfolioo-jainsanyaa27-9590s-projects.vercel.app)
+- My Portfolio Link  (https://portfolioo-rho-flame.vercel.app/)
 
 ---
 ## 🛠️ Tech Stack
