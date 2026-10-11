@@ -1,7 +1,10 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:F8BBD0,50:E879F9,100:C084FC&text=Sanya%20Jain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20DSA%20Enthusiast&descAlignY=58&descColor=FFF5F7&animation=fadeIn" width="100%"/>
+<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=EC4899&center=true&vCenter=true&width=900&lines=🌷+Building+Full-Stack+Web+Apps;⚛️+MERN+Stack+Developer;🚀+Turning+Ideas+Into+Reality;🧠+DSA+Problem+Solver;🌸+Open+Source+Contributor)](https://git.io/typing-svg)
 
+<br/>
 
 
 
